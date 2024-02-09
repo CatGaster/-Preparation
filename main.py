@@ -44,9 +44,9 @@ def stack_is_balanced(stacks: Stack):
         check = False
 
     if check == True:
-        print (f"Стек сбалансированный")
+        print ("Стек сбалансированный")
     else:
-        print (f"Стек не сбалансированный")
+        print ("Стек не сбалансированный")
 
     return check
 
